@@ -1,6 +1,7 @@
 # FGSSL
 
 >Federated Graph Semantic and Structural Learning
+
 >Wenke Huang, Guancheng Wan, Mang Ye, Bo Du
 
 ## Abstract
